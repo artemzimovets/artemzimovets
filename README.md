@@ -12,8 +12,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey there 👋  <br />
-My name is Artem and I'm from Ukraine   <br />
+Hey there 👋  My name is Artem and I'm from Ukraine   <br />
+ <br />
 I'm frontend developer and currently learning React JS  <br />
 You can find my works here  <br />
 
