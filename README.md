@@ -14,7 +14,7 @@
 -->
 My name is Artem and I'm from Ukraine   <br />
  <br />
-I'm frontend developer and currently learning React JS  <br />
+I'm frontend developer and currently building with React JS  <br />
 You can find my works here  <br />
 
 📫 Feel free to contact me with any questions at artem.zimovets@gmail.com  <br />
