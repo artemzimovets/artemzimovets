@@ -12,8 +12,8 @@
 - ⚡ Fun fact: ...
 -->
 My name is Artem and I'm from Ukraine   <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemzimovets&show_icons=true&theme=radical)
  <br />
 I'm frontend developer and currently building with React JS  <br />
 You can find my works here  <br />
