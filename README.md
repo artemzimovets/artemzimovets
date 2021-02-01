@@ -3,7 +3,6 @@
 <!--
 **artemzimovets/artemzimovets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemzimovets&show_icons=true&theme=radical)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,6 +12,8 @@
 - ⚡ Fun fact: ...
 -->
 My name is Artem and I'm from Ukraine   <br />
+
+![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemzimovets&show_icons=true&theme=radical)
  <br />
 I'm frontend developer and currently building with React JS  <br />
 You can find my works here  <br />
