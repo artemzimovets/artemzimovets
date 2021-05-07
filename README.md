@@ -30,7 +30,7 @@
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=artemzimovets&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemzimovets&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars](https://www.codewars.com/users/artemzimovets/badges/micro)
+![Codewars](https://www.codewars.com/users/artemdev/badges/micro)
 
 ![Profile views](https://gpvc.arturio.dev/artemzimovets)
 
